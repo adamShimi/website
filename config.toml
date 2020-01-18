@@ -1,0 +1,43 @@
+baseURL = "http://example.org/"
+title = "Impossibility is only the beginning"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+[params]
+  author = "Adam Shimi"
+  info1 = "PhD Student in Theoretical Computer Science,"
+  info2 = "Impossibility Results Enthusiast"
+  description = "Adam Shimi's personal page"
+  keyword = "academic,personal,papers,blog,teaching"
+  avatarurl = "images/avatar.jpg"
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/adamShimi/"
+[[params.social]]
+    name = "DBLP"
+    icon = "ai ai-dblp ai-2x"
+    weight = 2
+    url = "https://dblp.org/pers/hd/s/Shimi:Adam"
+
+# Menu links
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
+[[menu.main]]
+    name = "Papers"
+    weight = 2
+    url  = "/papers/"
+[[menu.main]]
+    name = "Teaching"
+    weight = 3
+    url  = "/teaching/"
+[[menu.main]]
+    name = "Blog"
+    weight = 4
+    url  = "/posts/"
