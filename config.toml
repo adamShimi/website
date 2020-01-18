@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://adamshimi.github.io/"
 title = "Impossibility is only the beginning"
 theme = "hugo-coder"
 languagecode = "en"
