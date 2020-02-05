@@ -1,3 +1,7 @@
 [submodule "themes/hugo-coder"]
 	path = themes/hugo-coder
 	url = git@github.com:adamShimi/hugo-coder.git
+[submodule "public"]
+	path = public
+	url = git@github.com:adamShimi/adamShimi.github.io.git
+	branch = master
