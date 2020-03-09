@@ -11,3 +11,4 @@ All the classes I taught, with some slides (in french)
 * Lecturer in "Introduction to Computation Complexity" class
    1. First Lecture (On time complexity, P and NP) : [Du calcul efficace à la vérification efficace](slides/CM1.pdf)
    2. Second Lecture (On space complexity) : [La puissance de l'espace : de la connectivité aux jeux](slides/CM2.pdf)
+   3. Third Lecture (On probabilistic time complexity and interactive protocols): [L'aléa du calcul et la vérification interactive](slides/CM3.pdf)
