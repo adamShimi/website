@@ -6,10 +6,12 @@ slug = "papers"
 Up-to-date list of published and submitted papers, complementing
 my [dblp profile](https://dblp.uni-trier.de/pers/s/Shimi:Adam.html).
 
+
+* **K-set agreement bounds in round-based models through combinatorial topology**, with
+Armando Castañeda. Accepted at PODC 2020, with [preprint available](https://arxiv.org/pdf/2003.02869.pdf).
 * **Derivation of Heard-Of Predicates From Elementary Behavioral Patterns**, with
-Aurélie Hurault and Philippe Quéinnec. In submission, with [preprint available](pdfs/forte.pdf).
-* **K set-agreement bounds in round-based models through combinatorial topology**, with
-Armando Castañeda. In submission, with [preprint available](https://arxiv.org/pdf/2003.02869.pdf).
+Aurélie Hurault and Philippe Quéinnec. Published in the Proceedings of FORTE 2020.
+[My version](pdfs/forte.pdf).
 * **The Splendors and Miseries of Rounds**. Published in SIGACT News Distributed Computing
 Column, issue September 2019. [My version](pdfs/sigact.pdf).
 * **Characterizing Asynchronous Message-Passing Models Through Rounds**, with
